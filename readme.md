@@ -25,11 +25,13 @@ This is a solution to the [Clone The  Nations web](https://thenationonlineng.net
 
 ### Screenshot
 
-[Desktop Design]-(./Screenshot/desktop design 1.png)
+[Desktop Design]
+-(./Screenshot/desktop design 1.png)
 - (./screenshot/desktop design 2.png)
 - (./screenshot/ mobile design.png)
-[Mobile Design](./Screenshot/Mobile%20Design.png)
-[Active](./Screenshot/active.png)
+[Mobile Design]
+- (./Screenshot/Mobile%20Design.png)
+
 
 
 ### Links
